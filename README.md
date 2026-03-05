@@ -1,12 +1,41 @@
-# Retail Sales Analysis SQL Project
+                                                             # Retail Sales Analysis SQL Project
 
 ## Project Overview
 
 **Project Title**: Retail Sales Analysis  
-**Level**: Beginner  
+**Project Level**: Beginner  
 **Database**: `sql_project_p1`
 
 This project aims to showcase SQL skills and techniques commonly used by data analysts to examine, clean, and analyze retail sales data. It includes creating a retail sales database, conducting exploratory data analysis (EDA), and solving key business questions using SQL queries.
+
+## Tools And Technologies
+    1. SQL
+	2.PostgreSQL 
+	3. Github
+	
+## Key SQL Concept Used
+ 1. Select statements
+ 2. Filteration using where
+ 3. Aggregate Function (Sum, Avg, Count)
+ 4. Group by
+ 5. Windows Funcion ( Rank)
+ 6. Common Table Expressions (CTE)
+ 7. Date and time Function
+	
+## Dataset Information
+
+The dataset contains retail transaction records including:
+   1. Transaction Id
+   2. Sale date & time
+   3. Customer Id
+   4. Gender
+   5. Age
+   6. Product Category
+   7. Quantity
+   8. Price per unit
+   9. Cost of goods sold
+   10. Total Sale
+
 
 ## Objectives
 
@@ -221,18 +250,16 @@ as
 
 This project provides a thorough introduction to SQL for data analysts by covering key aspects such as database creation, data cleaning, exploratory data analysis, and business-oriented SQL queries. The insights generated from the analysis can support informed decision-making by revealing sales trends, customer behavior, and product performance.
 
-## How to Use
 
-1. **Clone the Repository**: Clone this project repository from GitHub.
-2. **Set Up the Database**: Run the SQL scripts provided in the `database_setup.sql` file to create and populate the database.
-3. **Run the Queries**: Use the SQL queries provided in the `analysis_queries.sql` file to perform your analysis.
-4. **Explore and Modify**: Feel free to modify the queries to explore different aspects of the dataset or answer additional business questions.
+## Author 
 
-## Author - Ammara Sajjad
+**Ammara Sajjad**
+Aspiring Data Analyst| Economics Graduate
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
 
 
 Thank you for your support, and I look forward to connecting with you!
+
 
